@@ -5,3 +5,6 @@
 [submodule "autoharp"]
 	path = autoharp
 	url = https://github.com/cran/autoharp
+[submodule "grouper"]
+	path = grouper
+	url = https://github.com/cran/grouper
