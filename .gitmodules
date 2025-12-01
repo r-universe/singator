@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "autoharp"]
-	path = autoharp
-	url = https://github.com/cran/autoharp
 [submodule "grouper"]
 	path = grouper
 	url = https://github.com/singator/grouper
